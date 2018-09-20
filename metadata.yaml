@@ -1,0 +1,26 @@
+_repo: Experiments-on-the-Spoilage-of-Tomato-Ketchup_52867
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bitting, A. W. (Arvill Wayne)
+    alias: Bitting, Arvill Wayne
+    birthdate: 1870
+    deathdate: 1946
+    gutenberg_agent_id: '47090'
+    url: http://www.gutenberg.org/2009/agents/47090
+description: ''
+gutenberg_issued: '2016-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52867'
+  lccn: agr09000012
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ketchup'
+- !lcc 'TX'
+- GITenberg
+title: Experiments on the Spoilage of Tomato Ketchup
+url: http://www.gutenberg.org/ebooks/52867
